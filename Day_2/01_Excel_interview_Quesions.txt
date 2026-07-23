@@ -1,0 +1,44 @@
+wildcard
+
+🎤 Interview Questions
+Q1
+
+What is a wildcard?
+- wild card is a symbols like * and ? which is used in excel for finding the exact matches from a cell
+
+Q2
+
+Difference between * and ?
+- * is used to find exact full match after star function and ? is used to find single match after ? mark.
+
+
+Q3
+
+What does
+
+"Sales*"
+
+mean?  
+
+- in this * will start searching the letters after sales and give every name whose starts with sales.
+
+Q4
+
+What does
+
+"*Sales"
+
+mean?
+
+- in this * will start searching the letters before  sales and give every name whose ends with sales.
+
+
+Q5
+
+What does
+
+"*Sales*"
+
+mean?
+
+- It will search the sales from start and also search from end and give output where sales letter were seen.

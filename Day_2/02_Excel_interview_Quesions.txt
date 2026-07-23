@@ -1,0 +1,79 @@
+🎤 Interview Question
+Q1
+
+Why doesn't Excel include Aarav?
+Salary = 45000
+Department = Sales
+Think carefully.
+
+- in this question Aarav is from department sales that is fullfiling the requirement of 1 criteria but in second criteria they have asked for salary greater than 50000 that is where the condition become false and Aarav is not included in sum.
+
+
+
+Q2
+Why doesn't Excel include Priya?
+Salary = 52000
+Department = HR
+
+-  in this question Priya  is from department hr  that is not fullfiling the requirement of 1 criteria but in second criteria they have asked for salary greater than 50000 where the condition is true but for executing the sumifs function both condition needs to be true.
+
+
+Q3
+
+Why doesn't Excel include Riya?
+Salary = 50000
+Department = Sales
+
+
+-excel doesn't include riya because condition is whose salary is greater than 50000 here the salary is quivlent thats why the condition got false and riya is not included.
+
+
+
+
+
+📚 Mini Quiz (Very Important)
+
+Before we move to 3-condition SUMIFS, answer these.
+
+Q1 Which function should you use?
+Manager asks:
+Total sales of Laptop products.
+Choose:
+SUM
+SUMIF
+SUMIFS
+
+Explain why.
+- we can use sum function but for better and realistic problems we will use sumifs() function for it and here sum can't be used because it will sum the whole columns sales price
+
+Q2
+
+Manager asks:
+
+Total sales of Laptop products in the North region.
+
+Choose:
+
+SUM
+SUMIF
+SUMIFS
+
+Explain why.
+
+- here we have only one option to use because here we have two conditions which can be solved using sumifs()
+
+Q3
+
+Manager asks:
+
+Total sales in the North region for Laptop products where Sales > 50000.
+
+Choose:
+
+SUM
+SUMIF
+SUMIFS
+
+Explain why.
+
+- here we have only one option to use because here we have two conditions which can be solved using sumifs
