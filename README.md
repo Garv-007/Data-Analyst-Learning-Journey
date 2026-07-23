@@ -1,2 +1,28 @@
-# Data-Analyst-Learning-Journey
-A complete Data Analyst learning journey covering Excel, SQL, Power BI, Python, Statistics, Case Studies, Interview Preparation, and End-to-End Projects.
+# 📊 Data Analyst Learning Journey
+
+Welcome to my Data Analyst Learning Journey.
+
+This repository documents my complete roadmap from beginner to job-ready Data Analyst.
+
+## 📚 Learning Path
+
+- ✅ Excel
+- 🔜 SQL
+- 🔜 Power BI
+- 🔜 Python
+- 🔜 Statistics
+- 🔜 Data Visualization
+- 🔜 End-to-End Projects
+- 🔜 Interview Preparation
+
+Every topic includes:
+- 📖 Notes
+- 💻 Practice Files
+- 📝 Assignments
+- 🎯 Interview Questions
+- 📊 Real Business Scenarios
+
+
+
+
+Linkdin- https://www.linkedin.com/in/garv-singh260/
