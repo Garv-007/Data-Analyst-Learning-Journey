@@ -1,0 +1,40 @@
+Interview Round:
+
+Easy
+
+
+What is the SUM() function?
+- Sum function is to calculate the sum of a selected cells in a worksheets.
+
+What is the syntax of SUM()?
+- =SUM(A1:A5)
+
+Can SUM() add multiple ranges?
+-YES we can add multiple ranges in sum like =SUM(A1:A5,C1:C5)
+
+
+Medium
+
+Why is SUM() better than using +?
+- SUM  is used to calculate large amount of cells rows/columns. where as for + we need a lot of time for calculate the sum.
+
+What happens if the range contains blank cells?
+- it will simple ignore that cells and move further to next cells/
+
+Can SUM() add both values and cell references?
+- yes sum can add both values and cell references where as + is not used in cell refernces.
+
+
+Hard
+
+How would you calculate total sales for 500,000 records?
+- i will calculate it simple using cell references of sum function like =SUM(A1:A500000)
+
+Why is SUM() considered more maintainable than manual addition?
+- Because with sum() function u can add large amounts of cells using references rather than manual addition which takes lot of time and cause error.
+
+How would you debug a SUM() formula returning an unexpected result?
+-i will try to select cells again and carefully this time as main problem occurs when selecting the large cells in sum function
+
+
+

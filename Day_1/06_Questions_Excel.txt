@@ -1,0 +1,38 @@
+🎤 Interview Questions
+🟢 Easy
+
+What is the IF() function?
+-IF function contains a condition in which if it is true will execute the true stament otherwise it will execute else which is false statement.
+
+Write its syntax.
+=if(condition, true stam, false statement)
+
+What are the three arguments of an IF() function?
+=if(condition, true stam, false statement)
+
+
+🟡 Medium
+What is a logical test?
+- logical test means the logic or we can say condition is used in function on that basis the result will be given as output.
+
+What happens if the condition is FALSE?
+- it will simply return the false statement which we called else statement.
+
+Why are quotation marks required for text values?
+- the quotation is used because while writing anything except the numerical values there is rule that we have to use " " for text values in it we have to write them.
+
+What's the difference between > and >=?
+
+-> sign indicates the greater than    and >= means that greated than equal to .
+
+
+🔴 Hard
+How would you determine bonus eligibility for 100,000 employees?
+- for bonus eligibility we have to use if condition on which we have to give condtion firstly on that basis we can check eligibility of employees in compony.
+
+
+Why is the IF() function widely used in business reporting?
+- IF function in business reporting USED mostly because we have to take the insights like give me data who joins before this date , also give me employee name who have salary more than 50000 and from IT DEPARTMENT. WHERE conditions are required in buissnes there we have to use it.
+
+If an IF() formula returns the wrong result, how would you debug it?
+- i will firstly check my selected range from data and then condition on if statemnts , and then we will check the quotation marks in true and false statemnts.... if that does not work we wil look for data.

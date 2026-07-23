@@ -1,0 +1,40 @@
+Interview Questions:
+
+Easy
+
+What is the AVERAGE() function?
+- AVERAGE function means mean value or compatable center values of a numbers.
+
+
+What is its syntax?
+- =AVERAGE(A1:A5)
+
+What is the difference between SUM() and AVERAGE()?
+- SUM FUNCTION is used to give total numbers of sum and average is used to find mean or center values from a numbers.
+
+
+
+Medium
+Does AVERAGE() count blank cells?
+- no they don't include blank cells.
+
+Does AVERAGE() include text values?
+- no they don't include text values simply ignores them and move on next cell.
+
+
+Is zero included in the average?
+- yes zero will be included in average
+
+
+
+Hard
+
+Why is average often more useful than total?
+- Because most of the time companies used to find average employees and salary also some thime profits of their as compare to sum.
+
+How would you calculate average salary for 1 million employees efficiently?
+- simple using cell referances in average function starts from 1 and goes to 1 million.
+ 
+
+If the average is unexpectedly low, how would you investigate the issue?
+- A low average is usually caused by data corruption, extreme outliers

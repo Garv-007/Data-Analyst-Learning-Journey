@@ -1,0 +1,35 @@
+Interview Questions
+🟢 Easy
+
+What does the MAX() function do?
+-It will give u the largest value from a selected cells in excel
+
+What does the MIN() function do?
+-It will give u the smalles value from a selected cells in excel
+
+Write the syntax of both functions.
+- MAX(A1:A5)   MIN(A1:A5)
+
+
+Medium
+
+Does MAX() consider blank cells?
+- no Max will ignore the blank cells and returns the maximum value
+
+Does MIN() consider text values?
+- min do not consider the text values and they will ignore it
+
+What happens if the dataset contains negative numbers?
+- negative numbers are not going to be ignored they were treated equally as other numbers
+
+
+🔴 Hard
+
+How would you find the highest salary among 1 million employees?
+- will use the max() function on employess table columns that gives us the highest salary from the employees.
+
+Why are MIN() and MAX() useful in dashboard reporting?
+- They help identify KPIs such as highest sales, lowest sales, highest salary, minimum stock level, and performance extremes, making dashboards more informative.
+
+If MIN() returns an unexpected value, what would you check first?
+- I will firstly check my selected cells that they do not have any data duplicacy or data errors in it.

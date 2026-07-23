@@ -1,0 +1,85 @@
+Common Interview Questions:
+
+Easy
+
+What is Microsoft Excel?
+-Excel is a software used to maintain your data in rows and columns form which makes easy to perform any function on it.
+
+What is a Workbook?
+-workbook is the main book where all of the worksheets are stored in it. 
+
+What is a Worksheet?
+-Worksheets are the sub part of workbook. there are many worksheets in one workbook.
+
+What is a Cell?
+-cell is a box in worksheets where all of data should be written and there are many cells in worksheets
+
+What is a Range?
+- range is a selection of cells in worksheets means a person have selected A COLUMN from 1 row to D column 5 rows  which range is a1:d5 
+
+Medium
+
+Explain the difference between Workbook and Worksheet.
+- workbook is the main area of excel where different worksheets are stored in it. worksheets are sub-category of workbook.
+
+What is the purpose of the Formula Bar?
+- Formula bar is used to write a formula on cell also with help of that we can edit and write in cell
+
+What are the commonly used Excel file formats?
+- most common used excel formats are .xlsx and .csv in companies these are prefer mostly
+
+Why is proper data organization important?
+- Proper data organize makes easy to search any particular columns or rows from the data. excel do the same thing for us it helps to maintain lakhs of data very efficiently.
+
+What is the last column in Excel?
+-XFD
+
+Interview Level
+Why do companies still use Excel when SQL and Power BI exist?
+-Proper data organize makes easy to search any particular columns or rows from the data. excel do the same thing for us it helps to maintain lakhs of data very efficiently. THATS WHY companies still prefer excel over any other software.
+
+How would you organize a dataset before performing analysis?
+- before analysis i will make sure that data don't have any duplicacy in it also check each columns and rows that it does not contain any null values in it.
+
+What are common mistakes analysts make while preparing Excel data?
+- not using  meaningful column names , not Avoid blank rows and Avoid merged cells inside datasets also many more.
+	
+If a manager gives you a messy spreadsheet, what steps would you take before analyzing it?
+- before analysis i will make sure that data don't have any duplicacy in it also check each columns and rows that it does not contain any null values in it.
+
+What Excel skills do you consider essential for a Data Analyst?
+- ✅ Keep one header row
+
+✅ One row = One record
+
+✅ One column = One attribute
+
+✅ Avoid blank rows
+
+✅ Avoid merged cells inside datasets
+
+✅ Use meaningful column names
+
+
+
+
+
+ What is the advantage of converting a normal range into an Excel Table?
+- Automatic filtering and sorting for every column.
+Improved readability through table formatting.
+Tables automatically expand when new records are added.
+Easier creation of Pivot Tables and Charts.
+Structured references make formulas easier to read and maintain.
+Better compatibility with dashboards, Power Query, and data analysis workflows.
+
+
+
+--CELL REFERANCING 
+Q1.Why do we use cell references instead of typing values directly into formulas?
+--We use cell references because formulas update automatically when the underlying data changes. This reduces manual work, improves accuracy, and makes formulas reusable across many rows.
+
+Q2: What is a Relative Cell Reference?
+-- A Relative Cell Reference automatically changes its row and column references when a formula is copied or moved to another cell. It is the default type of reference in Excel and is commonly used when performing the same calculation across multiple rows or columns.
+
+Q3: When should you use an Absolute Cell Reference?
+-- An Absolute Cell Reference is used when a formula should always refer to the same cell, even after copying it to other locations. It is commonly used for constants such as tax rates, discount percentages, exchange rates, and commission values.

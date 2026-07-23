@@ -1,0 +1,39 @@
+🎤 Interview Questions
+
+🟢 Easy
+What is the COUNT() function?
+- count function will count the number of numerical values and also they will count date.
+
+What is the COUNTA() function?
+- counta function will count everything except blank values from a selected cells region.
+
+What is the COUNTBLANK() function?
+- countblank will count the number of blanks in the selected cells from a worksheet.
+
+Write the syntax of all three.
+- Count(A1:A5)   COUNTA(A1:A5)  COUNTBLANK(A1:A5)
+
+
+🟡 Medium
+Does COUNT() count text?
+- NO THEY do not include the text functions they will include only numerical values and date values in it.
+
+Does COUNTA() count numbers?
+- Yes counta will count numbers event they count everything except blanks in cells.
+
+Does COUNTBLANK() count a cell containing " " (a single space)?
+- no they will not be going to count in countblank function.
+
+Why does COUNT() count dates?
+- because it contain numbercal values in it
+
+
+🔴 Hard
+You receive an employee dataset with 500,000 rows. How would you quickly identify missing salaries?
+- for identifying the missing salries i would use count() function as it helps to find the count of numerical values.
+
+Why is COUNTA() useful during data cleaning?
+- counta is useful for data analyst as they need to clean the raw data and make its useful for analysis purpose so they use for finding number of blank spaces in there columns.
+
+A dashboard shows fewer employees than expected. Which counting function would you use to investigate, and why?
+- if dashoboard shows fewer employees  thats mean they have blank spaces in it so thats why we use countblank() function to solve this error.
